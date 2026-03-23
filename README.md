@@ -1,6 +1,6 @@
-# 🚀 BSD 바이브코딩 Skills 컬렉션 (Next.js & Node.js 에디션)
+# 🚀 바이브코딩 Skills 컬렉션 (Next.js & Node.js 에디션)
 
-**BSD Vibe Coding Professional Education Center** 수강생을 위한 **Next.js 및 Node.js** 기반의 전문적인 AI Skills 모음입니다.
+**Vibe Coding Professional Education Center** 수강생을 위한 **Next.js 및 Node.js** 기반의 전문적인 AI Skills 모음입니다.
 
 ## 📚 Skills 목록
 
@@ -113,10 +113,10 @@
 
 ---
 
-## 🎓 BSD 바이브코딩 과정 연계
+## 🎓 미래이음 바이브코딩 과정 연계
 
-본 Skills는 BSD 바이브코딩의 **실무 중심 커리큘럼**과 연동되어 있습니다. 단순한 코딩을 넘어, 실제 수익을 창출하는 **프로덕트 개발 역량**을 기르는 데 최적화되어 있습니다.
+본 Skills는 바이브코딩의 **실무 중심 커리큘럼**과 연동되어 있습니다. 단순한 코딩을 넘어, 실제 수익을 창출하는 **프로덕트 개발 역량**을 기르는 데 최적화되어 있습니다.
 
-**Made with ❤️ by BSD Vibe Coding Center**
+**Made with ❤️ by 미래이음 Vibe Coding Center**
 
 _Last Updated: 2026-01-20_
